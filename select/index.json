@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "New Song",
+  "base_artist": "Warpaint",
+  "createdAt": "2026-02-11T12:36:53.202126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Song",
+      "artist": "Ben Lee",
+      "has_synced": true,
+      "path": "select/01_New_Song_Ben_Lee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The New Song",
+      "artist": "Datarock",
+      "has_synced": true,
+      "path": "select/02_The_New_Song_Datarock.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Song",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/03_New_Song_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Song - new version",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/04_New_Song_-_new_version_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Song (new version)",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/05_New_Song_(new_version)_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Song 99",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/06_New_Song_99_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Church of New Song",
+      "artist": "Jacob Golden",
+      "has_synced": false,
+      "path": "select/07_Church_of_New_Song_Jacob_Golden.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Song",
+      "artist": "Nuclear Assault",
+      "has_synced": true,
+      "path": "select/08_New_Song_Nuclear_Assault.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "New Song",
+      "artist": "Warpaint",
+      "has_synced": true,
+      "path": "select/09_New_Song_Warpaint.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brand New Song",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/10_Brand_New_Song_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New Song",
+      "artist": "The Who",
+      "has_synced": true,
+      "path": "select/11_New_Song_The_Who.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Song II",
+      "artist": "Ilgen-Nur",
+      "has_synced": false,
+      "path": "select/12_New_Song_II_Ilgen-Nur.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Imperfection (New Song)",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/13_Imperfection_(New_Song)_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Brand New Song",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/14_A_Brand_New_Song_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New Song",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/15_New_Song_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Flame Still Burns (brand new song!)",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/16_The_Flame_Still_Burns_(brand_new_song!)_Foreigner.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Song",
+      "artist": "Warpaint",
+      "has_synced": false,
+      "path": "select/pl_01_New_Song_Warpaint.txt"
+    }
+  ]
+}
